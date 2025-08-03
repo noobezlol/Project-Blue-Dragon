@@ -1,7 +1,7 @@
 # 🚀 Project Blue Dragon v1: Emergent Adaptive Reasoning
 
-![Project Blue Dragon Banner](httpss://github.com/noobezlol/Project-Blue-Dragon/blob/main/blue_dragon.png?raw=true)
-*(Note: You will need to upload your `blue_dragon.png` file to the repository and update this link for the image to show.)*
+![Project Blue Dragon Banner](https://github.com/noobezlol/Project-Blue-Dragon/blob/674b10b9256cc5128593bd4e4fcbbd40801a08c1/blue_dragon.png?raw=true)
+
 
 **Model:** [noobezlol/blue-dragon-3b-v1](httpss://huggingface.co/noobezlol/blue-dragon-3b-v1) 
 
