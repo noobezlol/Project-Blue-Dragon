@@ -1,0 +1,10 @@
+# Core AI Libraries
+torch
+unsloth
+transformers
+datasets
+trl
+peft
+
+# Utilities
+numpy
